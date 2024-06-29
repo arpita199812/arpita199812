@@ -9,20 +9,6 @@
 * 🚀 Open Source Contributor dedicated to collaborative development.
 + 🌱 Lifelong Learner actively engaging in public learning and building projects.
 
-***Skills**
-**Hard Skills:**
-* **Operating Systems:** Linux
-- **Version Control:** Git, GitHub
-- **Containerization:** Docker
-+ **Configuration Management:** Ansible
-* **Infrastructure as Code:** Terraform
-- **CI/CD:** Jenkins, GitHub Actions
-+ **Orchestration:** Kubernetes
-* **Cloud Services:** AWS
-+ **Programming Languages:** Python, Bash
-- **Markup Languages:** YAML
-* **Soft Skills:** Communication skill, Problem Solving
-
 **Current Focus**
 - **🌱 Learning:** Python and Bash to enhance my programming skills.
 * **🔭 Projects:** Working on various DevOps and AWS projects.
@@ -34,5 +20,3 @@
 
 **What I Can Help With**
 💬 Ask me about DevOps, AWS Cloud, and resources for learning these technologies.
-
-**Feel free to reach out to me for any collaboration or queries related to DevOps and Cloud technologies. Let's build and learn together!**
