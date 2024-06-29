@@ -2,7 +2,7 @@
 **"Welcome to my GitHub!"**
 
 **25-Year-Old DevOps & Cloud Technology Enthusiast**
-DevOps Enthusiast || AWS Cloud || Kubernetes || Docker || Ansible || Terraform || Jenkins || GitHub Actions || Git & GitHub || Linux || Documentation || Python
+- DevOps Enthusiast || AWS Cloud || Kubernetes || Docker || Ansible || Terraform || Jenkins || GitHub Actions || Git & GitHub || Linux || Documentation || Python
 
 - 🌍 DevOps Enthusiast with a strong interest in cloud technologies.
 - 🚀 Open Source Contributor dedicated to collaborative development.
